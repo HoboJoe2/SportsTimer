@@ -71,6 +71,7 @@
 
     <!-- Timer Length Preferences -->
     <string name="flag_length_key">flagLength</string>
+    <string name="handicap_length_key">handicapLength</string>
     <string name="set_length_flag_t">Secondary timer length</string>
     <string name="timeout_length_key">timeoutLength</string>
     <string name="set_length_timeout_t">Timeout timer length</string>

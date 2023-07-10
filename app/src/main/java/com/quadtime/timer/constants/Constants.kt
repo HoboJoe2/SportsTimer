@@ -19,6 +19,7 @@ const val MillisecondsPerHour: Long = MillisecondsPerMinute* MinutesPerHour
 
 //Default settings
 const val defFlagLength: Int = 20
+const val defHandicapLength = 5
 const val defHeatLength: Int = 0
 const val defScoreInc: Int = 10
 const val defTimeoutLength: Int = 1
