@@ -52,7 +52,6 @@ android {
 
 dependencies {
 
-    implementation 'androidx.core:core-ktx:+'
     androidTestImplementation "androidx.test:runner:$androidXTestVersion"
     androidTestImplementation "androidx.test:rules:$androidXTestVersion"
     // Optional -- UI testing with Espresso
